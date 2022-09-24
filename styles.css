@@ -21,7 +21,7 @@ body{
 .product{
     width: 21.25em;
     height: 38.125em;
-    margin: 1.875em auto;
+    margin: 20vh auto;
     background-color: var(--White);
     border-radius: .8em;
     overflow: hidden;
